@@ -1,4 +1,6 @@
-## Hi there 👋
+## hallooo
+
+yumi here. crafter, terrible coder but i played the beginners guide and now i want to make shitty unplayable games so i'm learning and doing my best. please be nice to me
 
 <!--
 **darkdollyumi/darkdollyumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
